@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "megaMenu": true,
+      "text": "ABOUT US",
+      "menuItems": [
+        {
+          "text": "About SDSN",
+          "url": "/about/sdsn",
+          "external": false
+        },
+        {
+          "text": "About the Team",
+          "url": "/about/team",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false
+    },
+    {
+      "megaMenu": true,
+      "text": "WHAT WE DO",
+      "menuItems": [
+        {
+          "text": "News and Activities",
+          "url": "/news",
+          "external": false
+        },
+        {
+          "text": "Our Network and Members",
+          "url": "/what-we-do",
+          "external": false
+        },
+        {
+          "text": "Youth-led Action",
+          "url": "/youth",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false
+    },
+    {
+      "megaMenu": true,
+      "text": "THE SDGs",
+      "menuItems": [
+        {
+          "text": "Local SDGs",
+          "url": "/sdgs",
+          "external": false
+        },
+        {
+          "text": "SDG Resources",
+          "url": "/resources",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false,
+      "megamenu": false
+    },
+    {
+      "megaMenu": true,
+      "text": "GET INVOLVED",
+      "menuItems": [
+        {
+          "text": "Join the network",
+          "url": "/join",
+          "external": false
+        },
+        {
+          "text": "Events",
+          "url": "/events",
+          "external": false
+        },
+        {
+          "text": "Contact us",
+          "url": "/contact-us",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false
+    },
+    {
+      "megaMenu": false,
+      "text": "SEARCH",
+      "url": "/search",
+      "external": false,
+      "menuItems": [
+
+      ]
+    }
+  ]
+}

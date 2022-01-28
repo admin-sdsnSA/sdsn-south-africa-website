@@ -1,0 +1,80 @@
+---
+label: 'Page Content: News'
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Page Title
+  default: News Landing Page
+  hidden: true
+- name: networkNewsToggle
+  type: boolean
+  label: Network News Toggle
+  default: true
+  description: Turn networks news on or off
+- name: header
+  type: text
+  config:
+    required: true
+  label: Page Header
+  default: News
+  showOnly:
+    field: networkNewsToggle
+    value: true
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Banner Sub Title
+  showOnly:
+    field: networkNewsToggle
+    value: true
+- name: globalNewsToggle
+  type: boolean
+  label: Global Network News Toggle
+  default: true
+  description: Turn Global SDSN news on or off
+- name: globalHeader
+  type: text
+  config:
+    required: true
+  label: Global News Header
+  default: SDSN Global News
+  showOnly:
+    field: globalNewsToggle
+    value: true
+- name: globalSubtitle
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Global News Sub Title
+  showOnly:
+    field: globalNewsToggle
+    value: true
+- name: globalCTA
+  type: text
+  config:
+    required: true
+  label: Call to action to go to the SDSN Global Website
+  default: Read more on the Global SDSN website
+- name: previousPageText
+  type: text
+  config:
+    required: true
+  label: Previous page button text
+  default: Go to back to News
+  showOnly:
+    field: globalNewsToggle
+    value: true
+pages:
+- src/_data/pages/what/newsPage.json

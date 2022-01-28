@@ -1,0 +1,125 @@
+---
+label: 'Page Content: SDGs in Local'
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Page Title
+  default: SDGs Page
+  hidden: true
+- name: toggle
+  type: boolean
+  label: Page Toggle
+  default: true
+  description: Turn this page on or off
+- name: header
+  type: text
+  config:
+    required: true
+  label: Page Header
+  default: SDGs in
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Banner Sub Title
+- name: sdgsHeader
+  type: text
+  config:
+    required: true
+  label: SDGs Section Header
+  default: The Sustainable Development Goals
+- name: sdgsSubtitle
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: SDGs Section Sub Title
+- name: sdgsCta
+  type: text
+  config:
+    required: true
+  label: SDGs Call to Action Text
+  default: Learn more about the SDGs
+- name: sdgsCtaURL
+  type: text
+  config:
+    required: true
+  label: SDGs Call to Action URL
+  default: https://www.undp.org/content/undp/en/home/sustainable-development-goals.html
+- name: featuredActions
+  type: field_group_list
+  fields:
+  - name: pretextFeature
+    type: text
+    config:
+      required: false
+    label: Action by..
+    default: ACTION BY
+  - name: featureHeader
+    type: text
+    default: ''
+    config:
+      required: false
+    label: Initiative Owner
+    description: For example, local government
+  - name: featureSubtitle
+    type: textarea
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Initiative Description
+    description: Write a short description about this initiative
+  - name: featureCta
+    type: text
+    default: Read more
+    config:
+      required: false
+    label: Call to action
+    description: What can people do with this information?
+  - name: uploadToggle
+    type: boolean
+    label: Upload OR Link
+    description: Toggle to send website viewers to another link or download your file
+  - name: resourceFile
+    type: file
+    config:
+      maxSize: 40
+    label: Upload File
+    showOnly:
+      field: uploadToggle
+      value: true
+  - name: featureCtaURL
+    type: text
+    config:
+      required: false
+    label: URL to resource
+    showOnly:
+      field: uploadToggle
+    description: Where can people learn about this? Please link a URL starting with
+      https://
+  - name: featureImg
+    type: file
+    config:
+      maxSize: 0.8
+    label: Logo of the featured initiative owner
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Featured Non SDSN Initiatives
+  description: Feature national/regional initiatives for the SDGs here. For example,
+    does the government have a grant for SDG research or grants?
+pages:
+- src/_data/pages/sdgs/sdgsPage.json
