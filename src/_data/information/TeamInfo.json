@@ -11,6 +11,13 @@
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
+      "name": "Dr Thandi Mgwebi",
+      "email": "thandi.mgwebi@mandela.ac.za",
+      "networkPosition": "Local Leadership Council",
+      "position": "Deputy Vice-Chancellor: Research, Innovation, Internationalisation, Nelson Mandela University",
+      "photo": "/uploads/dr-thandi-mgwebi.jpg"
+    },
+    {
       "name": "Dr Anja Hallacker",
       "email": "anja.hallacker@wits.ac.za",
       "networkPosition": "Local Leadership Council",
