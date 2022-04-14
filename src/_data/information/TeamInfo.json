@@ -2,7 +2,7 @@
   "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
   "leadershipCouncil": true,
   "networkManagers": true,
-  "youthCoordinators": true,
+  "youthCoordinators": false,
   "lcTitle": "Leadership Council",
   "nmTitle": "Network Managers",
   "youthTitle": "The Youth Team",
