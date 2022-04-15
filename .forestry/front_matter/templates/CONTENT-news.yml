@@ -87,4 +87,5 @@ fields:
   label: Embedded content
   description: 'Add any embedded content here. '
 pages:
+- src/content/news/sdsn-march-2022-newsletter.md
 - src/content/news/university-support-to-decade-of-action copy 2.md
