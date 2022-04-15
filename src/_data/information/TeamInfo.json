@@ -11,6 +11,13 @@
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
+      "name": "Prof Teboho Moja",
+      "email": "teboho.moja@nyu.edu",
+      "networkPosition": "Local Leadership Council",
+      "position": "Clinical Professor of Higher Education, New York University",
+      "photo": "/uploads/teboho.jpg"
+    },
+    {
       "name": "Lawrence Matemba",
       "email": "Informationofficer@presidency.gov.za; lawrence@presidency.gov.za",
       "networkPosition": "Local Leadership Council",
