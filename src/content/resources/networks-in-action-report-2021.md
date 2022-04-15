@@ -5,15 +5,15 @@ author: Network Secretariat
 resourcesToggle: true
 tags: []
 fImage: "/uploads/sdsn-2021-networks-in-action-report_02_page_01.jpg"
-title: 'Networks in Action Report: 2021'
+title: Networks in Action Report 2021
 desc: "<p>SDSN’s National and Regional Networks promote the localization and implementation
   of the SDGs, develop long-term transformation pathways, provide education for sustainable
   development, and launch Solutions Initiatives to address challenges. Each network
   focuses on distinct projects and priorities in line with their local contexts and
   challenges.</p>"
-ctaTitle: ''
+ctaTitle: Download Report
 mainUploadToggle: false
-ctaURL: ''
+ctaURL: https://irp.cdn-website.com/be6d1d56/files/uploaded/SDSN%202021%20Networks%20in%20Action%20Report_02.pdf
 file: ''
 featuredToggle: false
 oResources: ''
