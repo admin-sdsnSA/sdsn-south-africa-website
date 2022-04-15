@@ -15,7 +15,7 @@ desc: <p>“No single country, no single discipline and no single institution ca
   the SDGs on their own"</p>
 ctaTitle: 'A full summary of the meeting is available online. '
 ctaURL: https://irp-cdn.multiscreensite.com/6f2c9f57/files/uploaded/200716%20Summary%20University%20Sector%20Support%20to%20SDGs.pdf
-fImage: "/uploads/b-sdsn-south-africa-social-media-graphic-square.jpg"
+fImage: "/uploads/049_20220302_eyescape.jpg"
 featuredToggle: false
 aboutAuthor: "<p>This is written by the SDSN Secretariat.</p>"
 embeddedContent:
