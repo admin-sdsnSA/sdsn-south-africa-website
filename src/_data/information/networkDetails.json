@@ -24,11 +24,11 @@
     }
   ],
   "impactSection": true,
-  "networkImpact": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu. Vivamus fermentum ex ut mauris feugiat convallis. Fusce cursus diam vel nunc lobortis, nec finibus orci lacinia.</p>",
+  "networkImpact": "<p>What we will look like:</p><p>In fulfilling our purpose and achieving our goals:</p>",
   "networkMetrics": [
     {
-      "header": "3 years",
-      "desc": "<p>Awarded the Sustainability Award in Antarctica, 3 years in a row.</p>"
+      "header": "We are actively engaged with stakeholders and collaborate at multiple levels",
+      "desc": "<p></p>"
     },
     {
       "header": "129",
@@ -40,8 +40,8 @@
     }
   ],
   "networkEmail": "antarc@unsdsn.org",
-  "websiteTitle": "SDSN Antarctica",
+  "websiteTitle": "SDSN South Africa",
   "websiteURL": "https://sdsn-rn-network.netlify.app/",
-  "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
+  "membersList": "<iframe class=\"airtable-embed\" src=\"[https://airtable.com/embed/shrFhPtfCd4m9ZbS0?backgroundColor=yellow&viewControls=on](https://airtable.com/embed/shrFhPtfCd4m9ZbS0?backgroundColor=yellow&viewControls=on \"https://airtable.com/embed/shrFhPtfCd4m9ZbS0?backgroundColor=yellow&viewControls=on\")\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"
 }
