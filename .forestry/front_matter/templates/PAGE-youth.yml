@@ -118,5 +118,3 @@ fields:
       format: markdown
   label: Youth Members List Code
   description: Please copy and paste Airtable code here
-pages:
-- src/_data/pages/what/youthPage.json
