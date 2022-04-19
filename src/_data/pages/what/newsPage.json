@@ -5,7 +5,7 @@
   "subtitle": "<p>The latest news from our network.</p>",
   "globalNewsToggle": true,
   "globalHeader": "Global SDSN News",
-  "globalSubtitle": "<p>News from the global network.</p>",
+  "globalSubtitle": "<p>News from the global network.</p><p></p>",
   "globalCTA": "Read more on the Global SDSN Website",
   "previousPageText": "Go back to News"
 }
