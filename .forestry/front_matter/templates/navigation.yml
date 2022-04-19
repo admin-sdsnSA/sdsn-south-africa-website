@@ -1,6 +1,6 @@
 ---
 label: Navigation
-hide_body: true
+hide_body: false
 fields:
 - name: items
   type: field_group_list
