@@ -8,7 +8,7 @@ ctaTitle: Register
 title: 'Video: SDSN South Africa launch event 2 March 2022'
 fImage: "/uploads/screenshot-2022-04-15-at-11-18-17-sdsn-south-africa-launch.png"
 featuredToggle: true
-desc: "<p>Hello excerpt</p>"
+desc: "<p>SDSN South Africa National Network launches</p>"
 ctaURL: https://s3.amazonaws.com/sustainabledevelopment.report/2019/2019_lac_sdg_index.pdf
 location: Online webinar
 
