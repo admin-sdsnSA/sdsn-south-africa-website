@@ -13,6 +13,11 @@
   "featuredMembers": true,
   "tImages": [
     {
+      "tTitle": "ARUA African Climate and Development Institute",
+      "tLink": "http://www.acdi.uct.ac.za/",
+      "tImg": "/uploads/adci-logo.png"
+    },
+    {
       "tTitle": "University of Cape Town",
       "tLink": "http://www.uct.ac.za/main/explore-uct/sustainability",
       "tImg": "/uploads/uct_logo.png"
