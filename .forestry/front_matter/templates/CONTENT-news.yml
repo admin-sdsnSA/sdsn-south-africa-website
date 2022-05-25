@@ -87,6 +87,7 @@ fields:
   label: Embedded content
   description: 'Add any embedded content here. '
 pages:
+- src/content/news/first-round-of-proposals-received-for-sdsn-and-siemens-gamesa-award.md
 - src/content/news/launch-event-sustainable-development-report.md
 - src/content/news/sdsn-march-2022-newsletter.md
 - src/content/news/sdsn-south-africa-universities-propel-up-the-2022-the-impact-rankings.md
