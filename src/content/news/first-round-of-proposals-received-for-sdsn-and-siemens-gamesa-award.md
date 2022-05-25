@@ -4,11 +4,9 @@ postDate: 2022-05-25T05:57:05+02:00
 author: Network Secretariat
 tags: []
 title: 'First round of proposals received for SDSN and Siemens Gamesa award '
-desc: '<p><img src="https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/UNIVERSITIES+FOR+SDG13+AWARD-ee5228b5-1920w.png"
-  title="SDSN Siemans Gamesa" alt="Project logo">On 1 May, student teams from the
-  five participating institutions in the “Universities for SDG13'''' competition submitted
-  their final projects that will be part of the international award finale. This competition
-  is a <a href="https://www.unsdsn.org/sdsn-and-siemens-gamesa-seal-an-alliance-to-promote-stem-talent-in-the-fight-against-climate-change"
+desc: '<p>On 1 May, student teams from the five participating institutions in the
+  “Universities for SDG13'''' competition submitted their final projects that will
+  be part of the international award finale. This competition is a <a href="https://www.unsdsn.org/sdsn-and-siemens-gamesa-seal-an-alliance-to-promote-stem-talent-in-the-fight-against-climate-change"
   title="Link: https://www.unsdsn.org/sdsn-and-siemens-gamesa-seal-an-alliance-to-promote-stem-talent-in-the-fight-against-climate-change">collaboration</a>
   between the Sustainable Development Solutions Network (SDSN) and <a href="https://www.siemensgamesa.com/en-int/sustainability">Siemens
   Gamesa</a>, a global leader on renewable energy, to promote university talent in
@@ -28,7 +26,7 @@ desc: '<p><img src="https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/UNIV
   in climate change, carbon sequestration and forest management, and carbon trading.</p><p>The
   selected teams will proceed to the next round of the competition on the global level.</p><p>Read
   more about the project details and timelines on the <a href="" title="">SDSN website.</a></p>'
-fImage: ''
+fImage: "/uploads/siemans_gamesa.png"
 featuredToggle: false
 aboutAuthor: ''
 embeddedContent: []
