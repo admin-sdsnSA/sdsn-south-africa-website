@@ -10,11 +10,11 @@
   "featuredActions": [
     {
       "pretextFeature": "ACTION BY",
-      "featureHeader": "Government",
-      "featureSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
+      "featureHeader": "South African Government",
+      "featureSubtitle": "<p><a href=\"https://www.statssa.gov.za/?p=12813\" title=\"\">Learn more about the South African governement's initiative to track SDG progress:</a></p><p>The Goal Tracker platform will give citizens, government and policymakers a means to track progress made towards achieving the SDGs, identify gaps and ultimately detect areas where greater action is needed. With Goal Tracker, SDG data will be accessible and publicly available in an interactive format for those who want or need to use it.</p><p>Goal Tracker will enable stakeholders to learn more about policies related to achieving the SDGs by 2030; give easier access to data ensuring increased transparency; and provide improved tools for decision-making, resource allocation and enhanced collaboration between all stakeholders, national, regional and international, and the broader SDG community.</p><p>The portal uses easy-to-understand visualisations, where large datasets are transformed into actionable information useful for evidence-based decision-making, and ensures greater openness and accountability around the implementation of the Global Goals and targets.</p><p>The new Goal Tracker will be kept up to date with the most recent data and SDG developments through to the end of the 2030 Agenda.</p><p>The portal will be useful to a broad user base, from the general public who are interested in learning key facts about the SDGs in South Africa, to technical experts who are interested in producing complex analytical outputs that could shape national policies towards the implementation of the 2030 Agenda.</p><p>Although the Global SDG framework has a total of 232 indicators, countries could generally only report on 199 of these, since these had agreed standards and methodologies. South Africa was able to report on 128 (64%) of the 199 reportable indicators. In addition, the country reported on an additional 26 indicators that were not part of the original set of SDG indicators.</p>",
       "featureCta": "Read more on government website",
-      "featureCtaURL": "https://www.ke.undp.org/content/kenya/en/home/sustainable-development-goals.html",
-      "featureImg": "",
+      "featureCtaURL": "https://www.statssa.gov.za/?p=12813",
+      "featureImg": "/uploads/logo_centered.png",
       "uploadToggle": false,
       "resourceFile": ""
     }
