@@ -26,7 +26,8 @@ desc: '<p><img src="https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/UNIV
   sustainable wind turbine, generating sustainable energy through solar, wind and
   hydro power, public policy recommendations for wind powered energy, community participation
   in climate change, carbon sequestration and forest management, and carbon trading.</p><p>The
-  selected teams will proceed to the next round of the competition on the global level.</p>'
+  selected teams will proceed to the next round of the competition on the global level.</p><p>Read
+  more about the project details and timelines on the <a href="" title="">SDSN website.</a></p>'
 fImage: ''
 featuredToggle: false
 aboutAuthor: ''
