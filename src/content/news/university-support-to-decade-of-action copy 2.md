@@ -5,10 +5,6 @@ author: 'Secretariat: SDSN South Africa '
 tags:
 - United Nations
 - Universities
-- Tag1
-- Tag1
-- Tag2
-- Really long tag tag tag
 title: 'South Africa National Network launched to support UN Sustainable Development
   Goals '
 desc: <p>“No single country, no single discipline and no single institution can tackle
