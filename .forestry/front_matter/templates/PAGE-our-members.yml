@@ -61,14 +61,6 @@ fields:
   label: Featured Member Institution Logos
   default: true
   description: Turn this on to add an images section
-- name: featuredMIs
-  type: include
-  config: {}
-  template: tiled-imgs
-  label: Featured Member Institution Logos
-  showOnly:
-    field: featuredMembers
-    value: true
 - name: contactTitle
   type: text
   config:
