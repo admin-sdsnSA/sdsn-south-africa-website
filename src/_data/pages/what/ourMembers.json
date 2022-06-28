@@ -13,6 +13,11 @@
   "featuredMembers": true,
   "tImages": [
     {
+      "tTitle": "Nelson Mandela University",
+      "tLink": "https://www.mandela.ac.za",
+      "tImg": ""
+    },
+    {
       "tTitle": "ARUA African Climate and Development Institute",
       "tLink": "http://www.acdi.uct.ac.za/",
       "tImg": "/uploads/adci-logo.png"
