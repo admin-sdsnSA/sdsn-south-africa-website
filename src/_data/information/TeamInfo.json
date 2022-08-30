@@ -11,6 +11,13 @@
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
+      "name": "Prof Tawana Kupe",
+      "email": "rector@up.ac.za",
+      "networkPosition": "Network Chair",
+      "position": "Vice-Chancellor and Principal: University of Pretoria",
+      "photo": "/uploads/20190114-022-mr2_0228.jpg"
+    },
+    {
       "name": "Mr Akum Fonteh",
       "email": "fakum@issafrica.org",
       "networkPosition": "Local Leadership Council Member",
